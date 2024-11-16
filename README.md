@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-I am a passionate developer with a deep love for open-source projects and the thrill of collaborative coding. Specializing in **web development**, I enjoy crafting innovative solutions using **JavaScript**, **Python**, and a variety of modern frameworks and tools. My journey spans both front-end and back-end technologies, and I’m always eager to explore new technologies that push the boundaries of what's possible.
+#### I am a passionate developer with a deep love for open-source projects and the thrill of collaborative coding. Specializing in **web development**, I enjoy crafting innovative solutions using **JavaScript**, **Python**, and a variety of modern frameworks and tools. My journey spans both front-end and back-end technologies, and I’m always eager to explore new technologies that push the boundaries of what's possible.
 
 ### 🔧 Tech Stack & Skills
 
