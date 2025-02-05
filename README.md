@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-#### I am a passionate developer with a deep love for open-source projects and the thrill of collaborative coding. Specializing in **web development**, I enjoy crafting innovative solutions using **JavaScript**, **Python**, and a variety of modern frameworks and tools. My journey spans both front-end and back-end technologies, and I’m always eager to explore new technologies that push the boundaries of what's possible.
+#### I am an Experienced Software Engineer specializing in Python (Flask) and JavaScript (Node.js, Express.js, React) programming, with a strong foundation in Computer Engineering. I have a proven track record of designing and building scalable web applications, leading cross-functional teams, and delivering impactful, user-centric solutions. My expertise lies in full-stack development, RESTful API design, and database optimization, which I leverage to enhance system performance and user experience. I am passionate about driving operational efficiency, innovation, and secure software solutions for mid-sized tech companies. I thrive on solving real-world problems through cutting-edge technology and collaborative project management.
 
 ### 🔧 Tech Stack & Skills
 
@@ -30,7 +30,7 @@ I am constantly building, testing, and contributing to projects in various domai
 
 ### 🔄 Collaborations & Open-Source
 
-As a firm believer in the power of open-source, I actively contribute to the community, collaborating with like-minded developers to solve problems, improve tools, and share knowledge. I’m always excited to work on new projects, whether it’s as part of a team or contributing to existing repositories.
+As a firm believer in the power of open source, I actively contribute to the community, collaborating with like-minded developers to solve problems, improve tools, and share knowledge. I’m always excited to work on new projects, whether it’s as part of a team or contributing to existing repositories.
 
 ### 🌱 What I’m Learning
 
