@@ -1,6 +1,7 @@
 ### 👨‍💻 About Me
 
-#### I am an Experienced Software Engineer specializing in Python (Flask) and JavaScript (Node.js, Express.js, React) programming, with a strong foundation in Computer Engineering. I have a proven track record of designing and building scalable web applications, leading cross-functional teams, and delivering impactful, user-centric solutions. My expertise lies in full-stack development, RESTful API design, and database optimization, which I leverage to enhance system performance and user experience. I am passionate about driving operational efficiency, innovation, and secure software solutions for mid-sized tech companies. I thrive on solving real-world problems through cutting-edge technology and collaborative project management.
+#### I am an experienced software engineer specializing in Python (Flask) and JavaScript (Node.js, Express.js, React) programming and have a strong computer engineering foundation. I have a proven track record of designing and building scalable web applications, leading cross-functional teams, and delivering impactful, user-centric solutions. My expertise lies in full-stack development, RESTful API design, and database optimization, which I leverage to enhance system performance and user experience. I am passionate about driving operational efficiency, innovation, and secure software solutions for mid-sized tech companies. I thrive on solving real-world problems through cutting-edge technology and collaborative project management.
+  
 
 ### 🔧 Tech Stack & Skills
 
