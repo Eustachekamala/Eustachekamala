@@ -1,7 +1,6 @@
 <section style="display: flex; flex-direction: row; gap: 20px; text-align: center;">
   <h1>Hi 👋, I'm Eustache Kamala</h1>
-  <h3>Full-stack engineer crafting smart, secure apps for tech companies.</h3>
-  <h3>Passionate about solving real problems with cutting-edge tech and teamwork.</h3>
+  <h3>Full-stack engineer crafting smart, secure apps for tech companies. Passionate about solving real problems with cutting-edge tech and teamwork.</h3>
 </section>
 
 ---
