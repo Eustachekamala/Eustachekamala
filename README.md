@@ -15,7 +15,7 @@
 ---
 
 ### 🔧 Tech Stack & Tools
-<p align="left">
+<section style="display: flex; flex-direction: row; gap: 20px; text-align: center;">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -96,7 +96,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-</p>
+</section>
 
 ---
 
