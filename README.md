@@ -59,9 +59,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <!-- Tailwind CSS -->
+  <!-- Tailwind CSS (Updated) -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.png"  alt="tailwind" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg?raw=true" alt="tailwind" width="40" height="40"/>
   </a>
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
