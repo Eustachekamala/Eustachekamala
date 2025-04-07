@@ -24,6 +24,11 @@ I’m all about teamwork. I contribute to open-source projects, collaborate with
 ---
 
 📊 GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" alt="GitHub Streak" /> </p>
+<p style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /> </p>
