@@ -1,6 +1,6 @@
 <section style="display: flex; flex-direction: row; gap: 20px; text-align: center;">
   <h1>Hi 👋, I'm Eustache Kamala</h1>
-  <h3>Full-stack engineer crafting smart, secure apps for tech companies. Passionate about solving real problems with cutting-edge tech and teamwork.</h3>
+  <h3>Software Engineer crafting smart, secure apps for tech companies. Passionate about solving real problems with cutting-edge tech and teamwork.</h3>
 </section>
 
 ---
@@ -38,10 +38,6 @@
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -99,11 +95,8 @@
 
 ---
 
-### 🚀 What I Build
-I create scalable full-stack apps with **React**, **Node.js**, and **Django**, delivering clean code that powers real-world solutions.
-
 ### 🔄 Open-Source Vibes
-I’m all about teamwork—contributing to open-source projects and collaborating with devs to build better tools and share ideas.
+I’m all about teamwork. I contribute to open-source projects, collaborate with developers to build better tools, and share ideas.
 
 ### 🌟 Exploring Next
 - **Web3 & Blockchain** basics  
@@ -113,7 +106,7 @@ I’m all about teamwork—contributing to open-source projects and collaboratin
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
