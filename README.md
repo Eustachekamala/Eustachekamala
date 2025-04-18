@@ -6,7 +6,7 @@
 - Building a **Computer Repair Shop** system—streamlining tech fixes with code.
 
 ### 🌱 Skills I’m Leveling Up
-- Diving deeper into **TypeScript**, **MongoDB**, **PostgreSQL**, and **Java**.
+- Diving deeper into **TypeScript**, **MongoDB**, **PostgreSQL**, and **Java(Spring Boot)**.
 
 ---
 
