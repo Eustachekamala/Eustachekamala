@@ -23,7 +23,7 @@
   <!-- Django --> 
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
   <!-- Figma --> 
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <!-- JavaScript --> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <!-- React --> 
@@ -50,8 +50,16 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <!-- SQL -->
   <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="40" height="40"/></a>
-  <!-- Postman --> 
- 
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <!-- CI/CD -->
+  <a href="https://www.atlassian.com/continuous-delivery/ci-vs-cd" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="CI/CD" width="40" height="40"/></a>
+  <!-- Pipeline -->
+  <a href="https://en.wikipedia.org/wiki/Pipeline_(software)" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2329/2329074.png" alt="Pipeline" width="40" height="40"/></a>
 </p>
 
 
