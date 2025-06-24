@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Eustache Kamala</h1> <h3 align="center">Software Engineer crafting smart, secure apps for tech companies.</h3> <p align="center">Passionate about solving real problems with cutting-edge tech and teamwork.</p>
+<h1 align="center">Hi 👋, I'm Eustache Kamala</h1>
+<h3 align="center">Software Engineer crafting smart, secure apps for tech companies.</h3>
+
+<p align="start">
+I'm a collaborative, solutions-driven developer with a passion for building impactful tools. I actively contribute to open-source projects, work closely with fellow developers, and continually seek growth opportunities. My focus is on leveraging cutting-edge technologies to solve real-world problems—whether it's optimizing workflows, enhancing user experiences, or developing scalable systems.
+</p>
+
 
 ---
 
@@ -28,24 +34,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <!-- React --> 
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <!-- Redux --> 
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
   <!-- Next.js --> 
   <a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/></a>
   <!-- Tailwind --> 
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg?raw=true" alt="Tailwind" width="40" height="40"/></a>
   <!-- TypeScript --> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <!-- Express --> 
-  <a href="https://expressjs.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/></a>
   <!-- Jenkins --> 
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
+  <!-- Zustand -->
+<!--   <a href="https://github.com/pmndrs/zustand" target="_blank"><img src="https://zustand-demo.pmnd.rs/zustand-bear.svg" alt="Zustand" width="40" height="40"/></a> -->
   <!-- Linux --> 
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <!-- MongoDB --> 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <!-- Node.js --> 
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <!-- PostgreSQL --> 
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <!-- SQL -->
@@ -53,7 +55,7 @@
   <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
   <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+<!--   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a> -->
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <!-- CI/CD -->
