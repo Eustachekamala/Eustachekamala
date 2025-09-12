@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer crafting smart, secure apps for tech companies.</h3>
 
 <p align="start">
-I'm a collaborative, solutions-driven developer with a passion for building impactful tools. I actively contribute to open-source projects, work closely with fellow developers, and continually seek growth opportunities. My focus is on leveraging cutting-edge technologies to solve real-world problems—whether it's optimizing workflows, enhancing user experiences, or developing scalable systems.
+I'm a collaborative, solutions-driven developer with a passion for building impactful tools. I actively contribute to open-source projects, work closely with fellow developers, and continually seek growth opportunities. My focus is on leveraging cutting-edge technologies to solve real-world problems, whether it's optimizing workflows, enhancing user experiences, or developing scalable systems.
 </p>
 
 
