@@ -1,30 +1,29 @@
 <div align="center">
 
 # 👋 Hi, I'm **Eustache Kamala**  
-
-### 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner  
-
-#### Passionate about building **scalable backend systems, APIs, and cloud-native apps**  
+## 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner
+### Passionate about building **scalable backend systems, APIs & cloud-native apps**  
 
 ---
 
 <p>
-  I’m a collaborative, solutions-driven developer with a passion for building impactful tools.  
-  I enjoy contributing to open-source projects, collaborating closely with developers, and continually seeking opportunities for growth.  
-  My mission is to leverage cutting-edge technologies to solve real-world problems, whether it’s optimizing workflows, enhancing user experiences, or developing scalable systems.  
+I’m a collaborative, solutions-driven developer with a passion for building impactful tools.  
+I enjoy contributing to open-source projects, collaborating with developers, and continually seeking growth opportunities.  
+My mission is to leverage cutting-edge technologies to solve real-world problems,  whether it’s optimizing workflows, enhancing user experiences, or developing scalable systems.  
 </p>
 
 ---
 
-<!-- Badges -->
+<!-- Tech Stack Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Code-Java-red?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=flat-square&logo=springboot" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/UI-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
+
 </div>
 
 ---
@@ -62,12 +61,6 @@ A web app for managing employees, departments, and attendance with role-based ac
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <!-- Spring Boot -->
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <!-- C++ --> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <!-- Python --> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <!-- Django --> 
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
   <!-- Figma --> 
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <!-- JavaScript --> 
