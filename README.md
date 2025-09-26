@@ -1,5 +1,5 @@
 # Hi, I'm **Eustache Kamala**  
-## 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner | ☁️ AWS Enthusiast
+## Software Engineer | Backend Developer | Fullstack Learner | AWS Enthusiast
 ### Passionate about building **scalable backend systems, APIs & cloud-native apps**
 <div align="center">
 
