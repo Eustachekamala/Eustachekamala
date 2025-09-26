@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Eustache Kamala</h1>
-<h3 align="center">Software Engineer crafting smart, secure apps for tech companies.</h3>
+<div align="center">
 
-<p align="start">
-I'm a collaborative, solutions-driven developer with a passion for building impactful tools. I actively contribute to open-source projects, work closely with fellow developers, and continually seek growth opportunities. My focus is on leveraging cutting-edge technologies to solve real-world problems, whether it's optimizing workflows, enhancing user experiences, or developing scalable systems.
-</p>
+# 👋 Hi, I'm **Eustache Kamala**  
 
+### 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner  
+
+#### Passionate about building **scalable backend systems, APIs, and cloud-native apps**  
 
 ---
 
-### 🔭 Current Project
-- Building a **Computer Repair Shop** system—streamlining tech fixes with code.
+<p>
+  I’m a collaborative, solutions-driven developer with a passion for building impactful tools.  
+  I enjoy contributing to open-source projects, collaborating closely with developers, and continually seeking opportunities for growth.  
+  My mission is to leverage cutting-edge technologies to solve real-world problems—whether it’s optimizing workflows, enhancing user experiences, or developing scalable systems.  
+</p>
 
-### 🌱 Skills I’m Leveling Up
-- Diving deeper into **TypeScript**, **MongoDB**, **PostgreSQL**, and **Java(Spring Boot)**.
+---
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Code-Java-red?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=flat-square&logo=springboot" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: **Job Application Management System** (Spring Boot + PostgreSQL + Docker)  
+- 🌱 Learning: **Spring Boot Advanced**, **React**, **Flutter**, **DevOps & AWS**  
+- 🎯 Goal: Become a **Fullstack Software Engineer** (Web + Mobile + Cloud)  
+- ⚡ Fun fact: I love solving complex problems with clean, efficient code  
+
+---
+
+## 📌 Featured Projects  
+
+### 📂 [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)  
+🔹 *Spring Boot + PostgreSQL + Docker + Swagger + Redis*  
+A system to manage job applications, track candidates, and streamline the hiring process.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/JobApplicationManagement) [![Live Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://job-application-management-system-latest-qvm4.onrender.com/swagger-ui/index.html)  
+
+---
+
+### 📂 [Employee Management System](https://github.com/Eustachekamala/EMS)  
+🔹 *Spring Boot + PostgreSQL + Docker + Swagger*  
+A web app for managing employees, departments, and attendance with role-based access.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/EMS)  
 
 ---
 
@@ -37,13 +77,11 @@ I'm a collaborative, solutions-driven developer with a passion for building impa
   <!-- Next.js --> 
   <a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/></a>
   <!-- Tailwind --> 
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg?raw=true" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/></a>
   <!-- TypeScript --> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <!-- Jenkins --> 
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-  <!-- Zustand -->
-<!--   <a href="https://github.com/pmndrs/zustand" target="_blank"><img src="https://zustand-demo.pmnd.rs/zustand-bear.svg" alt="Zustand" width="40" height="40"/></a> -->
   <!-- Linux --> 
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <!-- MongoDB --> 
@@ -54,8 +92,6 @@ I'm a collaborative, solutions-driven developer with a passion for building impa
   <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="40" height="40"/></a>
   <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <!-- Kubernetes -->
-<!--   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a> -->
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <!-- CI/CD -->
@@ -64,6 +100,7 @@ I'm a collaborative, solutions-driven developer with a passion for building impa
   <a href="https://en.wikipedia.org/wiki/Pipeline_(software)" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2329/2329074.png" alt="Pipeline" width="40" height="40"/></a>
 </p>
 
+---
 
 ### 🔄 Open-Source Vibes
 I’m all about teamwork. I contribute to open-source projects, collaborate with developers to build better tools, and share ideas.
@@ -75,12 +112,15 @@ I’m all about teamwork. I contribute to open-source projects, collaborate with
 
 ---
 
-📊 GitHub Stats
-<p style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" alt="GitHub Streak" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
 </p>
 
+---
 
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /> </p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
