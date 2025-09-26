@@ -1,8 +1,7 @@
-<div align="center">
-
-# 👋 Hi, I'm **Eustache Kamala**  
+# Hi, I'm **Eustache Kamala**  
 ## 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner
-### Passionate about building **scalable backend systems, APIs & cloud-native apps**  
+### Passionate about building **scalable backend systems, APIs & cloud-native apps**
+<div align="center">
 
 ---
 
@@ -33,16 +32,17 @@ My mission is to leverage cutting-edge technologies to solve real-world problems
 
 ---
 
-## 🚀 About Me
+## About Me  
 
-- 🔭 Currently working on: **Job Application Management System** (Spring Boot + PostgreSQL + Docker)  
-- 🌱 Learning: **Spring Boot Advanced**, **React**, **Flutter**, **DevOps & AWS**  
-- 🎯 Goal: Become a **Fullstack Software Engineer** (Web + Mobile + Cloud)  
-- ⚡ Fun fact: I love solving complex problems with clean, efficient code  
+- Currently working on: **Job Application Management System** (Spring Boot + PostgreSQL + Docker)  
+- Expanding my skills in **Spring Boot Advanced**, **React**, **Flutter**, **DevOps & AWS**  
+- Goal: Become a **Fullstack Software Engineer** (Web + Mobile + Cloud)  
+- Fun fact: I love solving complex problems with clean, efficient, and scalable code  
+  
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 ### 📂 [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)  
 🔹 *Spring Boot + PostgreSQL + Docker + Swagger + Redis*  
@@ -60,10 +60,10 @@ A web app for managing employees, departments, and attendance with role-based ac
 
 ---
 
-### 🔄 Open-Source Vibes
+### Open-Source Vibes
 I’m all about teamwork. I contribute to open-source projects, collaborate with developers to build better tools, and share ideas.
 
-### 🌟 Exploring Next
+### Exploring Next
 - **Web3 & Blockchain** basics  
 - **Microservices** and **Serverless** with **AWS Lambda**
 
