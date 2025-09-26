@@ -107,20 +107,28 @@ I’m all about teamwork. I contribute to open-source projects, collaborate with
 
 ### 🌟 Exploring Next
 - **Web3 & Blockchain** basics  
-- **React** tricks and state hacks  
 - **Microservices** and **Serverless** with **AWS Lambda**
 
 ---
 
-### 📊 GitHub Stats
-<p>
+## 📊 GitHub Overview  
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+  ### 📈 Stats & Streak  
   <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
+  
+</td>
+<td align="center" width="50%">
+  
+  ### 🏆 Trophies  
   <img src="https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+  
+</td>
+</tr>
+</table>
+
+
