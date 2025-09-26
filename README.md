@@ -1,5 +1,5 @@
 # Hi, I'm **Eustache Kamala**  
-## 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner
+## 💻 Software Engineer | ⚙️ Backend Developer | 🌍 Fullstack Learner | ☁️ AWS Enthusiast
 ### Passionate about building **scalable backend systems, APIs & cloud-native apps**
 <div align="center">
 
@@ -25,6 +25,7 @@ My mission is to leverage cutting-edge technologies to solve real-world problems
   <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
