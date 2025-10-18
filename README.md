@@ -1,6 +1,6 @@
 # Hi there, Welcome to my GitHub Page  
 ## Software Engineer | Backend Developer | Fullstack Learner | AWS Enthusiast
-### Passionate about building **scalable backend systems, APIs & cloud-native apps**
+### Passionate about building **scalable backend systems, APIs, Mobile Apps & cloud-native apps**
 <div align="center">
 
 ---
