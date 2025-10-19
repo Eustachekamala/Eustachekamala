@@ -8,7 +8,7 @@
 <p>
 I’m a collaborative, solutions-driven developer with a passion for building impactful tools.  
 I enjoy contributing to open-source projects, collaborating with developers, and continually seeking growth opportunities.  
-My mission is to leverage cutting-edge technologies to solve real-world problems,  whether it’s optimizing workflows, enhancing user experiences, or developing scalable systems.  
+My mission is to leverage cutting-edge technologies to solve real-world problems, whether it’s optimizing workflows, enhancing user experiences, or developing scalable systems.  
 </p>
 
 ---
