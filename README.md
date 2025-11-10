@@ -1,18 +1,21 @@
-# Hi there, Welcome to my GitHub Page  
-## Software Engineer | Backend Developer | Fullstack Learner | AWS Enthusiast
-### Passionate about building **scalable backend systems, APIs, Mobile Apps & cloud-native apps**
+# Hi there, Welcome to my GitHub Page 👋
+## Full-Stack Software Engineer | Backend Specialist | Cloud Enthusiast
+### Passionate about building **scalable systems, secure APIs & cloud-native applications**
+
+---
+
+<div align="start">
+  <p>
+    Dynamic Software Engineer specializing in developing scalable web solutions that drive client satisfaction. Expertise encompasses backend technologies like <strong>Java and Spring Boot</strong>, alongside frontend frameworks such as <strong>React and Tailwind      CSS</strong>. Proficient in crafting secure RESTful APIs and deploying applications using <strong>Docker and AWS</strong>, ensuring optimal performance and maintainability.
+  </p>
+  
+  <p>
+    Committed to delivering innovative, user-centered solutions that align with business objectives and enhance overall user experiences. I'm passionate about clean architecture, collaboration, and continuous learning.
+  </p>
+</div>
+
+---
 <div align="center">
-
----
-
-<p>
-I’m a collaborative, solutions-driven developer with a passion for building impactful tools.  
-I enjoy contributing to open-source projects, collaborating with developers, and continually seeking growth opportunities.  
-My mission is to leverage cutting-edge technologies to solve real-world problems, whether it’s optimizing workflows, enhancing user experiences, or developing scalable systems.  
-</p>
-
----
-
 <!-- Tech Stack Badges -->
 <p>
   <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java&logoColor=white" />
@@ -20,7 +23,7 @@ My mission is to leverage cutting-edge technologies to solve real-world problems
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/UI-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/UI-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -33,61 +36,126 @@ My mission is to leverage cutting-edge technologies to solve real-world problems
 
 ---
 
-## About Me  
+## 💼 What I Do
 
-- Currently working on: **Job Application Management System** (Spring Boot + PostgreSQL + Docker)  
-- Expanding my skills in **Spring Boot Advanced**, **React**, **Flutter**, **DevOps & AWS**  
-- Goal: Become a **Fullstack Software Engineer** (Web + Mobile + Cloud)  
-- Fun fact: I love solving complex problems with clean, efficient, and scalable code  
-  
-
----
-
-## Featured Projects  
-
-### 📂 [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)  
-🔹 *Spring Boot + PostgreSQL + Docker + Swagger + Redis*  
-A system to manage job applications, track candidates, and streamline the hiring process.
-
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/JobApplicationManagement) [![Live Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://job-application-management-system-latest-qvm4.onrender.com/swagger-ui/index.html)  
+- 🚀 Build enterprise-grade applications with **Java, Spring Boot & React**
+- 🔒 Design secure RESTful APIs with **JWT authentication** and optimized database architectures
+- ☁️ Deploy and containerize applications using **Docker, AWS & CI/CD pipelines**
+- 🎯 Focus on clean code, scalability, and performance optimization
+- 🤝 Contribute to open-source projects and collaborate with global developer communities
 
 ---
 
-### 📂 [Employee Management System](https://github.com/Eustachekamala/EMS)  
-🔹 *Spring Boot + PostgreSQL + Docker + Swagger*  
-A web app for managing employees, departments, and attendance with role-based access.
+## 🎯 Current Focus
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/EMS)  
-
----
-
-### Open-Source Vibes
-I’m all about teamwork. I contribute to open-source projects, collaborate with developers to build better tools, and share ideas.
-
-### Exploring Next
-- **Web3 & Blockchain** basics  
-- **Microservices** and **Serverless** with **AWS Lambda**
+- 🔨 Building: **Enterprise Management System** (Inventory, Sales, Logistics & Employee Management)
+- 📚 Learning: **Advanced Spring Boot**, **Microservices Architecture**, **AWS Cloud Services**
+- 🎓 Certifications: AWS Cloud Computing (ALX Africa - Ongoing)
+- 🌱 Exploring: **Web3 & Blockchain**, **Serverless Architecture** with AWS Lambda
 
 ---
 
-## 📊 GitHub Overview  
+## 🚀 Featured Projects
+
+### 📂 [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)
+🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • OpenAPI • Redis  
+🔹 **Description:** Backend system for managing applicants, jobs, and job applications with clean relational architecture and RESTful APIs. Features include applicant tracking, job posting management, and application workflow automation.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/JobApplicationManagement) [![Live Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://job-application-management-system-latest-qvm4.onrender.com/swagger-ui/index.html)
+
+---
+
+### 📂 [Employee Management System](https://github.com/Eustachekamala/EMS)
+🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • Swagger  
+🔹 **Description:** Full-featured web application for managing employees, departments, and attendance with role-based access control. Streamlines HR operations with automated reporting and data analytics.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/EMS)
+
+---
+
+## 🛠️ Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Backend
+- Java & Spring Boot
+- RESTful API Design
+- JWT Authentication
+- PostgreSQL & SQL
+- Redis & Caching
+- OpenAPI/Swagger
+
+</td>
+<td valign="top" width="33%">
+
+### Frontend
+- React & TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- Zustand State Management
+- Responsive Design
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps & Tools
+- Docker & Containerization
+- AWS Cloud Services
+- Git & GitHub Actions
+- Jenkins CI/CD
+- Linux
+- Postman & API Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Overview
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
   
-  ### 📈 Stats & Streak  
+  ### 📈 Stats & Streak
   <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
   
 </td>
 <td align="center" width="50%">
   
-  ### 🏆 Trophies  
+  ### 🏆 Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 </td>
 </tr>
 </table>
 
+---
 
+## 🌍 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing tech, or exploring new opportunities!
+
+- 🌐 **Portfolio:** [Portfolio](https://portfolio-eustache.vercel.app/)
+- 📧 **Email:** eustachekamala.dev@gmail.com
+- 📍 **Location:** Nairobi, Kenya | Open to remote opportunities
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Let's build something amazing together!** 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eustachekamala&style=for-the-badge&color=blue" alt="Profile views" />
+</div>
