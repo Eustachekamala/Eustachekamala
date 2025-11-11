@@ -6,7 +6,7 @@
 
 <div align="start">
   <p>
-    Dynamic Software Engineer specializing in developing scalable web solutions that drive client satisfaction. Expertise encompasses backend technologies like <strong>Java and Spring Boot</strong>, alongside frontend frameworks such as <strong>React and Tailwind      CSS</strong>. Proficient in crafting secure RESTful APIs and deploying applications using <strong>Docker and AWS</strong>, ensuring optimal performance and maintainability. Committed to delivering innovative, user-centered solutions that align with business objectives and enhance overall user experiences. I'm passionate about clean architecture, collaboration, and continuous learning.
+    I’m a dynamic Software Engineer, specializing in developing scalable web solutions that drive client satisfaction. Expertise encompasses backend technologies like <strong>Java and Spring Boot</strong>, alongside frontend frameworks such as <strong>React and Tailwind      CSS</strong>. Proficient in crafting secure RESTful APIs and deploying applications using <strong>Docker and AWS</strong>, ensuring optimal performance and maintainability. Committed to delivering innovative, user-centered solutions that align with business objectives and enhance overall user experiences. I'm passionate about clean architecture, collaboration, and continuous learning.
   </p>
 </div>
 
