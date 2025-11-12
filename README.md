@@ -63,7 +63,7 @@
 
 ### 📂 [Employee Management System](https://github.com/Eustachekamala/EMS)
 🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • Swagger  
-🔹 **Description:** Full-featured web application for managing employees, departments, and attendance with role-based access control. Streamlines HR operations with automated reporting and data analytics.
+🔹 **Description:** A Spring Boot-based application for managing employees, attendance, payroll, and related operations. This project demonstrates integration with RFID readers via JSerialComm to enable automated check-in and check-out.
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/EMS)
 
