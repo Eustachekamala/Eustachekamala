@@ -32,26 +32,26 @@
 
 ---
 
-## 💼 What I Do
+## What I Do
 
-- 🚀 Build enterprise-grade applications with **Java, Spring Boot & React**
-- 🔒 Design secure RESTful APIs with **JWT authentication** and optimized database architectures
-- ☁️ Deploy and containerize applications using **Docker, AWS & CI/CD pipelines**
-- 🎯 Focus on clean code, scalability, and performance optimization
-- 🤝 Contribute to open-source projects and collaborate with global developer communities
-
----
-
-## 🎯 Current Focus
-
-- 🔨 Building: **Enterprise Management System** (Inventory, Sales, Logistics & Employee Management)
-- 📚 Learning: **Advanced Spring Boot**, **Microservices Architecture**, **AWS Cloud Services**
-- 🎓 Certifications: AWS Cloud Computing (ALX Africa - Ongoing)
-- 🌱 Exploring: **Web3 & Blockchain**, **Serverless Architecture** with AWS Lambda
+- Build enterprise-grade applications with **Java, Spring Boot & React**
+- Design secure RESTful APIs with **JWT authentication** and optimized database architectures
+- Deploy and containerize applications using **Docker, AWS & CI/CD pipelines**
+- Focus on clean code, scalability, and performance optimization
+- Contribute to open-source projects and collaborate with global developer communities
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
+
+- Building: **Enterprise Management System** (Inventory, Sales, Logistics & Employee Management)
+- Learning: **Advanced Spring Boot**, **Microservices Architecture**, **AWS Cloud Services**
+- Certifications: AWS Cloud Computing (ALX Africa - Ongoing)
+- Exploring: **Web3 & Blockchain**, **Serverless Architecture** with AWS Lambda
+
+---
+
+## Featured Projects
 
 ### 📂 [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)
 🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • OpenAPI • Redis  
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table align=center>
 <tr>
@@ -110,20 +110,20 @@
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
   
-  ### 📈 Stats & Streak
+  ### Stats & Streak
   <img src="https://github-readme-stats.vercel.app/api?username=eustachekamala&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eustachekamala&theme=dark&hide_border=false" height="180" alt="GitHub Streak" />
   
 </td>
 <td align="center" width="50%">
   
-  ### 🏆 Trophies
+  ### Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=eustachekamala&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 </td>
@@ -132,7 +132,7 @@
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on interesting projects, discussing tech, or exploring new opportunities!
 
@@ -146,7 +146,7 @@ I'm always open to collaborating on interesting projects, discussing tech, or ex
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**Let's build something amazing together!** 🚀
+**Let's build something amazing together!**
 
 </div>
 
