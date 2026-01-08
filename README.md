@@ -65,7 +65,8 @@
 🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • Swagger  
 🔹 **Description:** A Spring Boot-based application for managing employees, attendance, payroll, and related operations. This project demonstrates integration with RFID readers via JSerialComm to enable automated check-in and check-out.
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/EMS)
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/EMS) [![Live Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ems-version-one.vercel.app)
+
 
 ---
 
