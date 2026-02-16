@@ -57,7 +57,7 @@
 🔹 **Tech Stack:** Dart • Flutter • Googlefonts • Provider  
 🔹 **Description:** Sushi Restaurant, a hands-on Flutter project built with one clear goal: to deepen my understanding of Flutter widgets and learn how to structure a real-world mobile application.
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](git@github.com:Eustachekamala/sushi-restaurant.git)
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eustachekamala/sushi-restaurant)
 
 ### [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)
 🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • OpenAPI • Redis  
