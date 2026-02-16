@@ -34,7 +34,7 @@
 
 ## What I Do
 
-- Build enterprise-grade applications with **Java, Spring Boot & React**
+- Build enterprise-grade applications with **Java, Spring Boot, React & Flutter**
 - Design secure RESTful APIs with **JWT authentication** and optimized database architectures
 - Deploy and containerize applications using **Docker, AWS & CI/CD pipelines**
 - Focus on clean code, scalability, and performance optimization
@@ -95,6 +95,7 @@
 
 ### Frontend
 - React & TypeScript
+- Flutter & Dart
 - JavaScript (ES6+)
 - Tailwind CSS
 - Zustand State Management
