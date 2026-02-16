@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/UI-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <!-- <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -53,7 +53,13 @@
 
 ## Featured Projects
 
-### 📂 [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)
+### [Sushi Restaurant](https://github.com/Eustachekamala/sushi-restaurant)
+🔹 **Tech Stack:** Dart • Flutter • Googlefonts • Provider  
+🔹 **Description:** Sushi Restaurant, a hands-on Flutter project built with one clear goal: to deepen my understanding of Flutter widgets and learn how to structure a real-world mobile application.
+
+[![GitHub Repo](https://img.shields.io/badge/Repo-000?style=for-the-badge&logo=github&logoColor=white)](git@github.com:Eustachekamala/sushi-restaurant.git)
+
+### [Job Application Management System](https://github.com/Eustachekamala/JobApplicationManagement)
 🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • OpenAPI • Redis  
 🔹 **Description:** Backend system for managing applicants, jobs, and job applications with clean relational architecture and RESTful APIs. Features include applicant tracking, job posting management, and application workflow automation.
 
@@ -61,7 +67,7 @@
 
 ---
 
-### 📂 [Employee Management System](https://github.com/Eustachekamala/EMS)
+### [Employee Management System](https://github.com/Eustachekamala/EMS)
 🔹 **Tech Stack:** Spring Boot • PostgreSQL • Docker • Swagger  
 🔹 **Description:** A Spring Boot-based application for managing employees, attendance, payroll, and related operations. This project demonstrates integration with RFID readers via JSerialComm to enable automated check-in and check-out.
 
