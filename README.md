@@ -6,7 +6,7 @@
 
 <div align="start">
   <p>
-    I’m a dynamic Software Engineer, specializing in developing scalable web solutions that drive client satisfaction. Expertise encompasses backend technologies like <strong>Java and Spring Boot</strong>, alongside frontend frameworks such as <strong>React and Tailwind      CSS</strong>. Proficient in crafting secure RESTful APIs and deploying applications using <strong>Docker and AWS</strong>, ensuring optimal performance and maintainability. Committed to delivering innovative, user-centered solutions that align with business objectives and enhance overall user experiences. I'm passionate about clean architecture, collaboration, and continuous learning.
+    I’m a Software Engineer passionate about building reliable and user-centered applications across <strong>web and mobile platforms</strong>. I develop scalable backend systems with <strong>Java and Spring Boot</strong>, create modern web interfaces using <strong>React</strong> and <strong>Tailwind CSS</strong>, and craft cross-platform mobile apps with <strong>Flutter and Dart</strong>. I enjoy designing secure RESTful APIs, deploying cloud-ready solutions with <strong>Docker</strong> and <strong>AWS</strong>, and writing clean, maintainable code that stands the test of time. Driven by curiosity and a commitment to continuous learning, I approach every project as an opportunity to grow while delivering thoughtful solutions that balance technical excellence with real-world impact.
   </p>
 </div>
 
