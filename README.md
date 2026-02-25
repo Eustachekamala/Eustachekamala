@@ -86,7 +86,7 @@
 - Java & Spring Boot
 - RESTful API Design
 - JWT Authentication
-- PostgreSQL & SQL
+- PostgreSQL
 - Redis & Caching
 - OpenAPI/Swagger
 
