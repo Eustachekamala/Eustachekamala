@@ -124,7 +124,6 @@ I'm always open to collaborating on interesting projects, discussing tech, or ex
 
 - 🌐 **Portfolio:** [Portfolio](https://portfolio-eustache.vercel.app/)
 - 📧 **Email:** eustachekamala.dev@gmail.com
-- 📍 **Location:** Nairobi, Kenya | Open to remote opportunities
 
 ---
 
