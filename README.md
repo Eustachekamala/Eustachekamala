@@ -94,11 +94,7 @@
 <td valign="top" width="33%">
 
 ### Frontend
-- React & TypeScript
 - Flutter & Dart
-- JavaScript (ES6+)
-- Tailwind CSS
-- Zustand State Management
 - Responsive Design
 
 </td>
