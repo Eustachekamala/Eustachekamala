@@ -1,14 +1,6 @@
-# Hi there, Welcome to my GitHub Page
-## Software Engineer | Backend Specialist | Cloud Enthusiast
-### Passionate about building **scalable systems, secure APIs & cloud-native applications**
+## Eustache Kamala — Software Engineer
 
----
-
-<div align="start">
-  <p>
-    I’m a Software Engineer passionate about building reliable and user-centered applications across <strong>web and mobile platforms</strong>. I develop scalable backend systems with <strong>Java and Spring Boot</strong>, create  cross-platform mobile apps with <strong>Flutter and Dart</strong>. I enjoy designing secure RESTful APIs, deploying cloud-ready solutions with <strong>Docker</strong> and <strong>AWS</strong>, and writing clean, maintainable code that stands the test of time. Driven by curiosity and a commitment to continuous learning, I approach every project as an opportunity to grow while delivering thoughtful solutions that balance technical excellence with real-world impact.
-  </p>
-</div>
+I build **backend systems that scale**, APIs that are secure by design, and mobile experiences that feel native. My stack centers on **Java & Spring Boot** for backend, **Flutter** for cross-platform mobile, and **Docker & AWS** for cloud-native deployment. I care deeply about clean architecture, maintainable code, and shipping solutions that actually solve problems.
 
 ---
 <div align="center">
