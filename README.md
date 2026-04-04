@@ -1,4 +1,4 @@
-## Eustache Kamala, Software Engineer
+## Eustache Kamala - Software Engineer
 
 I build **backend systems that scale**, APIs that are secure by design, and mobile experiences that feel native. My stack centers on **Java & Spring Boot** for backend, **Flutter** for cross-platform mobile, and **Docker & AWS** for cloud-native deployment. I care deeply about clean architecture, maintainable code, and shipping solutions that actually solve problems.
 
